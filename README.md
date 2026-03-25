@@ -2,6 +2,8 @@
 # Apple TV 遥控器 Windows 增强版 (v1.4 稳定版)
 
 [English](#english) | [中文](#中文)
+<img width="507" height="947" alt="3fd499b52ee9fd71afe1b46d9226ff50" src="https://github.com/user-attachments/assets/d2a30049-3958-48e0-8782-f47450645244" />
+<img width="701" height="844" alt="1fded326a37ad1ab1084c5a414af90c1" src="https://github.com/user-attachments/assets/4ce7087a-5fa5-4bf3-aa0f-52ee602d78c1" />
 
 ---
 
