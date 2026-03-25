@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pyatv
-pystray
-Pillow
-pydantic
-websockets
